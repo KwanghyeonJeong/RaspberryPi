@@ -2,6 +2,8 @@
 
 - 라즈베리파이 기본 설치과 시작, 사용 방법을 기술합니다. (21.02.09~)
 
+<img src = "./images/raspberrypi_model.jpg" width="50%">
+
 ## Installation to SD card
 
 <www.raspberrypi.org> 접속 후, 상단 메뉴에서 DOWNLOADS 선택
