@@ -1,6 +1,8 @@
-<www.raspberrypi.org> 접속 후, 상단 메뉴에서 DOWNLOADS 선택
+<img src = "./images/osInstall1.jpg" width="50%">
 
-다운받는 PC의 운영체제에 맞게 라즈비안(디스크 이미지 파일 .img)을 설치합니다.
+<www.raspberrypi.org> 접속 후, 상단 메뉴에서 Software 선택
+
+다운받는 옵션에 맞게 라즈비안을 설치합니다.
 
 다운 받은 라즈비안 이미지파일(.img)을 SD카드에 이동시킵니다. 
 
