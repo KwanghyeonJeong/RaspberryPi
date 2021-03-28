@@ -1,5 +1,3 @@
-
-
 <img src = "./images/os.png">
 
 <www.raspberrypi.org> 접속 후, 상단 메뉴에서 Software 선택
