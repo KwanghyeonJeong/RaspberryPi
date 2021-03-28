@@ -1,4 +1,4 @@
-<img src = "./images/os1.jpg" width="50%">
+<img src = "./images/os.jpg" width="50%">
 
 <www.raspberrypi.org> 접속 후, 상단 메뉴에서 Software 선택
 
