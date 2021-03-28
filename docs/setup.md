@@ -22,6 +22,8 @@ $ git clone git://github.com/pbatard/rufus
 ```
 **rufus.exe으로 FAT상태로 초기화**
 
+<img src = "./images/FAT_Init.png">
+
 라즈베리파이에 SD카드를 넣고 전원을 연결합니다. HDMI를 통해 디스플레이 장치와 연결을 합니다. 
 
 ### Raspbian start
