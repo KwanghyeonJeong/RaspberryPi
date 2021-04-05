@@ -28,7 +28,7 @@ $ git clone git://github.com/pbatard/rufus
 
 ### Raspbian start
 
-첫 페이지에서 Next를 선택합니다.
+첫 페이지에서 Next를 선택합니다..
 
 - Set Country
 
