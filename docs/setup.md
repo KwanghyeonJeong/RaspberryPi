@@ -1,7 +1,7 @@
 ## Installation_raspbian
 
 
-**경고_설치 방법은 PC 운영체제 윈도우10 기준입니다.**
+**경고)설치 방법은 PC 운영체제 윈도우10 기준입니다.**
 
 <img src = "./images/Install_os.jpg">
 
